@@ -6,7 +6,7 @@ use to display temporary images in development.
 ## Features
 - use to display temporary images in development.
 
-![screenshot01](https://user-images.githubusercontent.com/4578511/34076776-58e3ef0a-e334-11e7-867b-b473f11cfd5c.png)
+![screenshot01](https://user-images.githubusercontent.com/4578511/34076793-b8571ebc-e334-11e7-970b-0044b5f7d832.png)
 
 ## How to use
 if need memory cache, use singleton object to create image.
